@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="administraciónDeClasesToolStripMenuItem" xml:space="preserve">
+    <value>Administracion de clases</value>
+  </data>
+  <data name="administraciónDeClientesToolStripMenuItem" xml:space="preserve">
+    <value>Administracion de clientes</value>
+  </data>
+  <data name="administraciónDeProductosToolStripMenuItem" xml:space="preserve">
+    <value>Administracion de productos</value>
+  </data>
+  <data name="administraciónDeTurnosToolStripMenuItem" xml:space="preserve">
+    <value>Administración de turnos</value>
+  </data>
+  <data name="administraciónDeUsuariosToolStripMenuItem" xml:space="preserve">
+    <value>Gestion de empleados y usuarios</value>
+  </data>
+  <data name="btnAdmClientes" xml:space="preserve">
+    <value>Administracion de Clientes</value>
+  </data>
+  <data name="btnDesloguear" xml:space="preserve">
+    <value>Desloguear</value>
+  </data>
+  <data name="btnGestionAbono" xml:space="preserve">
+    <value>Gestion de abono</value>
+  </data>
+  <data name="btnGestionClases" xml:space="preserve">
+    <value>Gestion de clases</value>
+  </data>
+  <data name="btnGestionTurnos" xml:space="preserve">
+    <value>Gestion de turnos</value>
+  </data>
+  <data name="btnIngreso" xml:space="preserve">
+    <value>Ingresar</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>Loguear</value>
+  </data>
+  <data name="btnSalir" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="btnVentaProductos" xml:space="preserve">
+    <value>Venta de productos</value>
+  </data>
+  <data name="clasesToolStripMenuItem" xml:space="preserve">
+    <value>Clases</value>
+  </data>
+  <data name="clientesToolStripMenuItem" xml:space="preserve">
+    <value>Clientes</value>
+  </data>
+  <data name="clientesToolStripMenuItem1" xml:space="preserve">
+    <value>Historial</value>
+  </data>
+  <data name="clientesToolStripMenuItem2" xml:space="preserve">
+    <value>Clientes</value>
+  </data>
+  <data name="controlDeIngresoToolStripMenuItem" xml:space="preserve">
+    <value>Control de Ingreso</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="lblUser" xml:space="preserve">
+    <value>Usuario</value>
+  </data>
+  <data name="productosToolStripMenuItem" xml:space="preserve">
+    <value>Productos</value>
+  </data>
+  <data name="reportesToolStripMenuItem" xml:space="preserve">
+    <value>Productos</value>
+  </data>
+  <data name="reportesToolStripMenuItem1" xml:space="preserve">
+    <value>Reportes</value>
+  </data>
+  <data name="turnosToolStripMenuItem" xml:space="preserve">
+    <value>Turnos</value>
+  </data>
+  <data name="usuariosToolStripMenuItem" xml:space="preserve">
+    <value>Administrar Nomina</value>
+  </data>
+  <data name="usuariosToolStripMenuItem1" xml:space="preserve">
+    <value>Totales</value>
+  </data>
+  <data name="usuariosToolStripMenuItem2" xml:space="preserve">
+    <value>Usuarios</value>
+  </data>
+  <data name="usuariosToolStripMenuItem3" xml:space="preserve">
+    <value>Usuarios</value>
+  </data>
+  <data name="ventasToolStripMenuItem" xml:space="preserve">
+    <value>Ventas</value>
+  </data>
+  <data name="frmLogin" xml:space="preserve">
+    <value>Logueo</value>
+  </data>
+  <data name="btnReposProductos" xml:space="preserve">
+    <value>Reposición de productos</value>
+  </data>
+  <data name="frmMenuPrincipal" xml:space="preserve">
+    <value>Menu Principal</value>
+  </data>
+  <data name="lblIdCliente" xml:space="preserve">
+    <value>ID Cliente</value>
+  </data>
+  <data name="lblHistorialIngreso" xml:space="preserve">
+    <value>Historial de ingreso</value>
+  </data>
+  <data name="lblNewPassword" xml:space="preserve">
+    <value>Contraseña nueva</value>
+  </data>
+  <data name="lblNewPassword2" xml:space="preserve">
+    <value>Repetir contraseña</value>
+  </data>
+  <data name="lblPasswordActual" xml:space="preserve">
+    <value>Contraseña actual</value>
+  </data>
+  <data name="btnCambiar" xml:space="preserve">
+    <value>CAMBIAR</value>
+  </data>
+  <data name="frmCambiarContraseña" xml:space="preserve">
+    <value>Cambiar Contraseña</value>
+  </data>
+  <data name="btnCambiarPass" xml:space="preserve">
+    <value>Cambiar Contraseña</value>
+  </data>
+  <data name="frmMenuAdmin" xml:space="preserve">
+    <value>Menu Administración</value>
+  </data>
+  <data name="frmVenta" xml:space="preserve">
+    <value>Venta de productos</value>
+  </data>
+  <data name="lblVendedor" xml:space="preserve">
+    <value>Vendedor</value>
+  </data>
+  <data name="btnEliminar" xml:space="preserve">
+    <value>Eliminar</value>
+  </data>
+  <data name="btnEditar" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="btnMostrarClientes" xml:space="preserve">
+    <value>Mostrar</value>
+  </data>
+  <data name="lblNominaClientes" xml:space="preserve">
+    <value>Nomina Clientes</value>
+  </data>
+  <data name="lblDniCliente" xml:space="preserve">
+    <value>DNI Cliente</value>
+  </data>
+  <data name="btnBuscar" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="btnGuardar" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="btnCancelar" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="lblDatosCliente" xml:space="preserve">
+    <value>Datos Cliente</value>
+  </data>
+  <data name="btnFoto" xml:space="preserve">
+    <value>Foto</value>
+  </data>
+  <data name="btnBuscarDni" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="btnBuscarId" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="lblNombre" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="lblApellido" xml:space="preserve">
+    <value>Apellido</value>
+  </data>
+  <data name="lblGenero" xml:space="preserve">
+    <value>Genero</value>
+  </data>
+  <data name="lblDirección" xml:space="preserve">
+    <value>Dirección</value>
+  </data>
+  <data name="lblCelular" xml:space="preserve">
+    <value>Cel</value>
+  </data>
+  <data name="lblTelefono" xml:space="preserve">
+    <value>Telefono</value>
+  </data>
+  <data name="lblAbono" xml:space="preserve">
+    <value>Abono</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="lblAptoFisico" xml:space="preserve">
+    <value>Apto Fisico</value>
+  </data>
+  <data name="lblProvincia" xml:space="preserve">
+    <value>Provincia</value>
+  </data>
+  <data name="lblLocalidad" xml:space="preserve">
+    <value>Localidad</value>
+  </data>
+  <data name="lblFechaNac" xml:space="preserve">
+    <value>Fecha Nac</value>
+  </data>
+  <data name="frmAdmClientes" xml:space="preserve">
+    <value>Administración de clientes</value>
+  </data>
+  <data name="lblFoto" xml:space="preserve">
+    <value>La imagen debe ser jpg 100x100</value>
+  </data>
+  <data name="lblBitacora" xml:space="preserve">
+    <value>Bitacora</value>
+  </data>
+  <data name="lblNombreProducto" xml:space="preserve">
+    <value>Nombre producto</value>
+  </data>
+  <data name="lblListadoProd" xml:space="preserve">
+    <value>Listado Productos</value>
+  </data>
+  <data name="lblDescripción" xml:space="preserve">
+    <value>Descripción</value>
+  </data>
+  <data name="lblTipo" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="lblMantenimientoProductos" xml:space="preserve">
+    <value>Mantenimiento Productos</value>
+  </data>
+  <data name="frmManteninientoProductos" xml:space="preserve">
+    <value>Administración de Productos</value>
+  </data>
+  <data name="lblPrecio" xml:space="preserve">
+    <value>Precio</value>
+  </data>
+  <data name="lblStock" xml:space="preserve">
+    <value>Stock</value>
+  </data>
+  <data name="btnAgregar" xml:space="preserve">
+    <value>Agregar</value>
+  </data>
+  <data name="lblProducto" xml:space="preserve">
+    <value>Producto</value>
+  </data>
+  <data name="lblCantidad" xml:space="preserve">
+    <value>Cantidad</value>
+  </data>
+  <data name="frmReposProductos" xml:space="preserve">
+    <value>Reposición de productos</value>
+  </data>
+  <data name="frmAdmProductos" xml:space="preserve">
+    <value>Administración de productos</value>
+  </data>
+  <data name="frmAcerca" xml:space="preserve">
+    <value>Acerca de</value>
+  </data>
+  <data name="lblAcerca" xml:space="preserve">
+    <value>                         ACCESS ADMIN V1.0
+           Software de gestión y control de acceso
+           Proyecto de prácticas profesionalizantes
+                                   Año 2022
+
+Todos los derechos reservados a los alumnos:
+- Falcone Natalia
+- Margetic Isabel
+- Riquelme Mara
+- Quinteros Pablo</value>
+  </data>
+  <data name="frmContaduria" xml:space="preserve">
+    <value>Contaduria</value>
+  </data>
+  <data name="lblFechaInicio" xml:space="preserve">
+    <value>Fecha Inicio</value>
+  </data>
+  <data name="lblFechaFinal" xml:space="preserve">
+    <value>Fecha Final</value>
+  </data>
+  <data name="btnExportar" xml:space="preserve">
+    <value>Exportar</value>
+  </data>
+</root>

@@ -1,0 +1,370 @@
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\rvargas\OneDrive - WarnerMedia\Mios varios\INSTITUTOS\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\rvargas\Documents\1- Mios varios\1- FACULTAD\2- Práctica profesional\Programación en CAPAS\CRUD-C-Sharp-SQL-Server-POO-Capas-EJEMPLO\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\CRUD-C-Sharp-SQL-Server-POO-Capas-Completo\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\Practicas Profesionalizantes 3\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54116\Documents\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\EMATP\Desktop\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmRolBloq.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmCambiarContraseña.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmCambiarContraseña.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmRolBloq.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmContaduria.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmContaduria.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.en-US.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.es-AR.resources
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\en-US\CapaPresentacion.resources.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\es-AR\CapaPresentacion.resources.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\en-US\CapaPresentacion.resources.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\en-US\CapaPresentacion.resources.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmContaduria.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmCambiarContraseña.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmRolBloq.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.en-US.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.es-AR.resources
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\en-US\CapaPresentacion.resources.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\loadi\Documents\SISTEMAS 2022\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\en-US\CapaPresentacion.resources.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\es-AR\CapaPresentacion.resources.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.en-US.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.es-AR.resources
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\en-US\CapaPresentacion.resources.dll
+C:\QP\ACCESS ADMIN\CapaPresentacion\obj\Debug\es-AR\CapaPresentacion.resources.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\BACKUP BD\ACCESS ADMIN\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcerca.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\en-US\CapaPresentacion.resources.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcerca.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmContaduria.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmCambiarContraseña.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmRolBloq.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.en-US.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.es-AR.resources
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\en-US\CapaPresentacion.resources.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maralalinda\Desktop\Facultad\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\en-US\CapaPresentacion.resources.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmClientes.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionClases.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmGestionAbono.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmFicha.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmAcerca.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmContaduria.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmCambiarContraseña.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmRolBloq.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmAdmProductos.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmReposProductos.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.frmVenta.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmIdioma.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenuAdmin.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.frmAdmUsuarios.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.en-US.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.Lenguajes.Strings.es-AR.resources
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\en-US\CapaPresentacion.resources.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\es-AR\CapaPresentacion.resources.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\nunit.framework.dll
+C:\Users\Mar Vaporeon\Desktop\BK Mara Riquelme\Facultad\TP FINAL PRACTICAS\CapaPresentacion\bin\Debug\nunit.framework.xml

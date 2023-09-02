@@ -1,0 +1,36 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

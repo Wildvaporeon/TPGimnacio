@@ -1,0 +1,98 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Edu\Desktop\ESCUELAS\ISFT172\PRGs\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe.config
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.dll
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.dll
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\1 - ENTORNO GRAFICO\1 - EJERCICIOS\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\eduar\OneDrive\Escritorio\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Maralalinda\Desktop\Facultad\ABMCapasAccess con Busqueda\CapaVista\obj\Debug\CapaVista.pdb
